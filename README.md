@@ -2,7 +2,7 @@
 This repository contains STL files of the printed parts.
 
 
-# LINKS
+#Links
 
 Gama3D website : http://www.gama3d.eu/
 
