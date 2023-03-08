@@ -1,5 +1,5 @@
 # 3D printer G1.0-
-This repository contains STL files of the printed parts.
+This repository contains STL files of the printed parts and it will soon contain a build manual and new firmware.
 
 
 # Links
